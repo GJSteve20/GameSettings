@@ -1,0 +1,21 @@
+size: 9
+name: '<G#f7d305>Confirm Upgrade Menu</G#ffffff>'
+
+Buttons:
+  confirm:
+    material: LIME_STAINED_GLASS_PANE
+    name: '<#2bff00>Confirm'
+    lore:
+      - ''
+      - '&fClick here to confirm'
+      - '&fCost: <#f7d305>$%upgrade_cost%'
+      - ''
+    slot: 2
+  cancel:
+    material: RED_STAINED_GLASS_PANE
+    name: '<#e00f00>Cancel'
+    lore:
+      - ''
+      - '&fClick here to cancel'
+      - ''
+    slot: 6

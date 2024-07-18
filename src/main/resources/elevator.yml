@@ -1,0 +1,15 @@
+enabled: true
+permission: elevator.use
+block: IRON_BLOCK
+
+sound: ENTITY_ENDERMAN_TELEPORT;1;1
+
+allowed_blocks:
+  - '~CARPET'
+  - '~SIGN'
+  - '~TORCH'
+  - '~TRAPDOOR'
+  - '~PRESSURE_PLATE'
+  - STRING
+  - LIGHT
+  - AIR

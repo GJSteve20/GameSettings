@@ -1,0 +1,25 @@
+enabled: true
+max-entities: 400
+default-time: 300 #time in seconds
+
+wait_sound: BLOCK_NOTE_BLOCK_HAT;2;2
+removed_sound: BLOCK_NOTE_BLOCK_PLING;2;1
+
+Entities:
+  - DROPPED_ITEM
+  - ZOMBIE
+  - AREA_EFFECT_CLOUD
+  - ENDERMAN
+  - ZOMBIFIED_PIGLIN
+
+Announcer:
+  - 300
+  - 150
+  - 60
+  - 30
+  - 15
+  - 10
+  - 5
+  - 3
+  - 2
+  - 1

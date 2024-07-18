@@ -1,0 +1,8 @@
+main: ro.steve.gamesettings.GameSettingsMain
+version: 1.4.2-GensFix
+api-version: 1.19
+name: GameSettings
+commands:
+  gens:
+  sellall:
+  clearchat:

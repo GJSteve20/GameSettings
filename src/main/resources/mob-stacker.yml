@@ -1,0 +1,13 @@
+enabled: true
+distance: 10
+stack: 25
+name: '<#e1ff00>x%amount% <#11ff00>%type%'
+
+Mobs:
+  - ZOMBIE
+  - SKELETON
+  - CREEPER
+  - ZOMBIFIED_PIGLIN
+  - BLAZE
+  - ENDERMAN
+  - SPIDER

@@ -1,0 +1,20 @@
+enabled: true
+alert: true
+replace: true
+replacer: '<G#ff0080>I love enderplanet.mysrv.us</G#ffffff> <#ff0000>❤'
+notify: 'antiad.notify'
+bypass: 'antiad.bypass'
+
+Ads:
+  - 'https://'
+  - 'http://'
+  - 'discord.gg'
+  - 'play.'
+  - 'mc.'
+  - '.us'
+  - '.xyz'
+  - '.com'
+  - '.net'
+  - 'smp.'
+  - '.smp'
+  - 'www'

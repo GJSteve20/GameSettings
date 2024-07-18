@@ -1,0 +1,58 @@
+enabled: true
+censored: true
+alert: true
+auto-mod: true
+actions: 5
+mute-command: 'tempmute %player% 5m &cSwearing'
+notify: 'antiswear.notify'
+bypass: 'antiswear.bypass'
+
+Swears:
+  - shit
+  - fuck
+  - gay
+  - idiot
+  - jerk
+  - shit
+  - fack
+  - bastard
+  - trash
+  - mother fucker
+  - fucker
+  - dick
+  - cock
+  - bitch
+  - cunt
+  - fuck off
+  - nigga
+  - nigger
+  - stfu
+  - shut the fuck up
+  - fck
+  - wtf
+  - what the fuck
+  - fuck you
+  - fok
+  - homo
+  - asf
+  - penis
+  - rape
+  - hoe
+  - porn
+  - sex
+  - piss
+  - sht
+  - tits
+  - anal
+  - fap
+  - aids
+  - mofo
+  - niggah
+  - lesbian
+  - ngga
+  - dumbass
+  - fucking
+  - pussy
+  - pussies
+  - cancer
+  - slut

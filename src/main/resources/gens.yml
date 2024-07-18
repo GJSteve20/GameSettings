@@ -1,0 +1,135 @@
+enabled: true
+player_distance: 20 #if player is further
+chunk_limiter: 25
+
+Gens:
+  Tier_1: #each gen should be named with Tier_ and a level
+    material: GREEN_WOOL
+    name: '<G#008f26>Tier I Gen</G#00ff51>'
+    time: 2 #time is in seconds
+    upgrade_cost: 10000.0
+    item:
+      material: GREEN_DYE
+      name: '<#008f26>Green'
+      cost: 0.1
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>0.1/qty'
+        - ''
+  Tier_2:
+    material: RED_WOOL
+    name: '<G#fc1303>Tier II Gen</G#e0493f>'
+    time: 2
+    upgrade_cost: 50000.0
+    item:
+      material: RED_DYE
+      name: '<#ff1000>Red'
+      cost: 0.3
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>0.3/qty'
+        - ''
+  Tier_3:
+    material: ORANGE_WOOL
+    name: '<G#ff9100>Tier III Gen</G#fca605>'
+    time: 2
+    upgrade_cost: 75000.0
+    item:
+      material: ORANGE_DYE
+      name: '<#ff9b17>Orange'
+      cost: 0.7
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>0.7/qty'
+        - ''
+  Tier_4:
+    material: YELLOW_WOOL
+    name: '<G#ffff00>Tier IV Gen</G#f7f768>'
+    time: 4
+    upgrade_cost: 100000.0
+    item:
+      material: YELLOW_DYE
+      name: '<#e8e82a>Yellow'
+      cost: 1.2
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>1.2/qty'
+        - ''
+  Tier_5:
+    material: BLUE_WOOL
+    name: '<G#1778ff>Tier V Gen </G#61a1fa>'
+    time: 4
+    upgrade_cost: 135000.0
+    item:
+      material: BLUE_DYE
+      name: '<#2775e3>Blue'
+      cost: 1.7
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>1.7/qty'
+        - ''
+  Tier_6:
+    material: PURPLE_WOOL
+    name: '<G#9105fc>Tier VI Gen</G#c37afa>'
+    time: 5
+    upgrade_cost: 170000.0
+    item:
+      material: PURPLE_DYE
+      name: '<#a43df2>Purple'
+      cost: 2.1
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>2.1/qty'
+        - ''
+  Tier_7:
+    material: BROWN_WOOL
+    name: '<G#4c3228>Tier VII Gen</G#5b3e31>'
+    time: 5
+    upgrade_cost: 210000.0
+    item:
+      material: BROWN_DYE
+      name: '<#361c12>Brown'
+      cost: 2.5
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>2.5/qty'
+        - ''
+  Tier_8:
+    material: LIGHT_GRAY_WOOL
+    name: '<G#ada8a6>Tier VIII Gen</G#ded9d7>'
+    time: 7
+    upgrade_cost: 265000.0
+    item:
+      material: LIGHT_GRAY_DYE
+      name: '<#c9c5c3>Light Gray'
+      cost: 2.8
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>2.8/qty'
+        - ''
+  Tier_9:
+    material: GRAY_WOOL
+    name: '<G#6c706d>Tier IX Gen</G#7f8581>'
+    time: 7
+    upgrade_cost: 300000.0
+    item:
+      material: GRAY_DYE
+      name: '<#606361>Gray'
+      cost: 3.2
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>3.2/qty'
+        - ''
+  Tier_10:
+    material: BLACK_WOOL
+    name: '<G#050505>Tier X Gen</G#1c1b1b>'
+    time: 10
+    upgrade_cost: 350000.0
+    item:
+      material: BLACK_DYE
+      name: '&0Black'
+      cost: 3.5
+      lore:
+        - ''
+        - '&fPrice: <#f7d305>3.5/qty'
+        - ''

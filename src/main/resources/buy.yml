@@ -1,0 +1,13 @@
+size: 9
+name: '<G#f7d305>Buy Gen Menu</G#ffffff>'
+
+Gens:
+  gen:
+    tier: Tier_1 #the exact name from gens.yml
+    name: '<G#008f26>Tier I Gen</G#00ff51>'
+    lore:
+      - ''
+      - '&fLeft click to buy'
+      - '&fCost: <#f7d305>$%upgrade_cost%'
+      - ''
+    slot: 4
